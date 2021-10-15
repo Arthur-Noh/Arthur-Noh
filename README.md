@@ -1,5 +1,4 @@
-# 안녕하세요
-저는 노동준입니다.
-저는 DB/ML/AI에 관심이 많습니다.
-저는 현재 IT 분야의 취업을 준비하고 있습니다.\n
-![C](link)
+#### Hello
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
