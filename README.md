@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Arthur-Noh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Arthur-Noh/Arthur-Noh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
 # 안녕하세요
+저는 노동준입니다.
+저는 DB/ML/AI에 관심이 많습니다.
+저는 현재 IT 분야의 취업을 준비하고 있습니다.
