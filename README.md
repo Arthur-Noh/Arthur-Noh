@@ -1,5 +1,5 @@
-#### Hello<br/>
-#### I am DONGJUN
+### Hello<br/>
+### I am DONGJUN
 __Machine Learning Engineer__<br/>
 * I interested in ML / DL / AI / DB<br/>
 * I am currently preparing to get an IT job.<br/>
