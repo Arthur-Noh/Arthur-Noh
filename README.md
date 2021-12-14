@@ -1,7 +1,7 @@
 ### Hello I am DONGJUN<br/>
-__Machine Learning Engineer__<br/>
+__Back-end Developer__<br/>
 * I interested in ML / DL / AI / DB<br/>
-* I am currently preparing to get an IT job.<br/>
+* Now i working at Among
   
 <br/>
 
