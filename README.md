@@ -1,7 +1,6 @@
 ### Hello I am DONGJUN<br/>
 __Back-end Developer__<br/>
 * I interested in ML / DL / AI / DB<br/>
-* Now i working at Among
   
 <br/>
 
