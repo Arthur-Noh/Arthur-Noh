@@ -1,4 +1,6 @@
 ### Hi there. I'm dongjun</br>
+### Now i am interested in
+* __Front-end__ react, next, mobx</br>
 
 #### I was woring at... <br/>
 * __AMONG__ __(2021.12 - )__ front, back<br/>
