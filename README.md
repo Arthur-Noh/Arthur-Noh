@@ -1,3 +1,4 @@
+## 오늘의 나는 어제보다  강하다.
 ### Hi there. I'm dongjun</br>
 #### Now i am interested in
 * __Front-end__ react, next, mobx</br>
