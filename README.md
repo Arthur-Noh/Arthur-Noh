@@ -9,9 +9,7 @@
 * __SmartCity Lab__ __(2020.03 - 2020.12)__ ml developer, researcher </br>
 
 #### The skills i could do...
-* __Front__  react<br/>
-* __Server__  nodejs, nestjs, postgres<br/>
-* __ML/DL__  tensorflow<br/>
-* __Language__  javascript, typescript, c, python<br/>
+* __Front__  react_native<br/>
+* __Language__  javascript, typescript<br/>
 
 #### have a nice day 👋
