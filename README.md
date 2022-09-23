@@ -1,4 +1,4 @@
-## 오늘의 나는 어제보다 더 강하다.
+## Fall 7 times, stand up 8.
 ### Hi there. I'm dongjun</br>
 #### Now i am interested in
 * __Front-end__ react, next, mobx</br>
