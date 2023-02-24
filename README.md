@@ -1,5 +1,5 @@
 ## Fall 7 times, stand up 8.
-### Hi there. I'm dongjun</br>
+### Hi there. I'm dongjoon</br>
 #### Now i am interested in
 * __Front-end__ react-native, mobx</br>
 
