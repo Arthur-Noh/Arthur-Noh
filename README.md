@@ -1,7 +1,7 @@
 ## Fall 7 times, stand up 8.
 ### Hi there. I'm dongjoon</br>
 #### Now i am interested in
-* __Front-end__ react, react-native, mobx</br>
+* __Front-end__ react, react-native, redux, mobx, zustand</br>
 
 #### I was working at... <br/>
 * __SK ELECTLINK__ __(2023.08 - now/full-time)__ front(React-natvie, React)</br>
