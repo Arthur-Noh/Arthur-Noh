@@ -1,5 +1,4 @@
-## Fall 7 times, stand up 8.
-## But now i'm exhausted.
+## Fall 7 times, stand up 8, But now i'm exhausted.
 ### Hi there. I'm dongjoon</br>
 #### Now i am interested in
 * __Front-end__ react, react-native, redux, mobx, zustand</br>
